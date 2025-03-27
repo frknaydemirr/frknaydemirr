@@ -11,15 +11,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Güncellenmiş sürüm
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         id: snake-gif
-        uses: Platane/snk@master
+        uses: Platane/snk@v3  # Güncellenmiş sürüm
         with:
           github_user_name: frknaydemirr
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist  # Yeni sürümde çıktılar bu şekilde belirtiliyor
 
       - name: Show Git status
         run: git status
@@ -28,11 +27,11 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  # "master" yerine "main" olabilir, deposunun ana branch'ini kontrol et
+          branch: main  # Ana branch'in adını kontrol et
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3  # Güncellenmiş sürüm
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
