@@ -2,7 +2,7 @@
  <br>
 A passionate Web developer from Turkey
 
-![a1 (5)](https://github.com/user-attachments/assets/8be071b7-b640-47e8-b817-b429925ff8c8)
+
 
 
 
