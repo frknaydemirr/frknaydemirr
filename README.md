@@ -67,6 +67,9 @@ A passionate Web developer from Turkey
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+ <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="100" height="100"/>
+  </a>
 </p>
 
 
