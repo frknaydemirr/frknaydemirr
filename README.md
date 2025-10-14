@@ -9,7 +9,7 @@ A passionate Web developer from Turkey
 
 - 🔭 I’m currently working on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://furkanaydmr.com.](https://furkanaydmr.com.)
+- 👨‍💻 All of my projects are available at [http://furkanaydemir.com/](http://furkanaydemir.com/)
 
 - 📫 How to reach me **furkanaydemir12@hotmail.com**
  <br><br>
