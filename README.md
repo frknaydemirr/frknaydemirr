@@ -1,6 +1,6 @@
  Hi 👋, I'm Furkan Aydemir
  <br>
-A passionate Web developer from Turkey
+A passionate Full Stack Web developer from Turkey
 
 
 
