@@ -1,89 +1,75 @@
- Hi 👋, I'm Furkan Aydemir
- <br>
-A passionate Full Stack Web developer from Turkey
+<h1 align="center">Merhaba, ben Furkan Aydemir 👋</h1>
 
+<h3 align="center">Yazılım Geliştirici • Bilgisayar Müh. Öğrencisi</h3>
 
-
-
-
-
-- 🔭 I’m currently working on **Web Development**
-
-- 👨‍💻 All of my projects are available at [http://furkanaydemir.com/](http://furkanaydemir.com/)
-
-- 📫 How to reach me **furkanaydemir12@hotmail.com**
- <br><br>
-
-## Connect with me  
-
-
-<p align="left">
-<a href="https://linkedin.com/in/furkanaydemir13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanaydemir13/" height="30" width="40" /></a>
-
-
-
-
-</p>
-<br>
-
-
-
-## Technologies Used :
-
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+<p align="center">
+  <a href="http://furkanaydemir.com/">
+    <img src="https://img.shields.io/badge/WEBSITE-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/furkanaydemir13/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://github.com/frknaydemirr">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
- <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="100" height="100"/>
+  <a href="mailto:aydemirfurkan1372@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:furkanaydemir12@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
   </a>
 </p>
 
+## Hakkımda
 
+- 💻 **Tecrübe:** Kodjet Yazılım *(Ocak 2026 - Şimdi)*
+- 🚀 Fikirleri çalışan, sade ve ölçeklenebilir ürünlere dönüştürmeyi seviyorum.
+- 📍 Ankara / Türkiye
+- 🌐 Projeler ve iletişim: [furkanaydemir.com](http://furkanaydemir.com/)
 
+## Teknolojiler
 
+<h4 align="center">Diller</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,java" alt="Diller" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frknaydemirr&show_icons=true&theme=dark)
+<h4 align="center">Frontend & Mobil</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,angular" alt="Frontend ve Mobil" />
+  </a>
+</p>
 
+<h4 align="center">Backend & Veritabanı</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mysql" alt="Backend ve Veritabanı" />
+  </a>
+  <br/>
+  <br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Server" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+</p>
 
+<h4 align="center">Araçlar & Diğer</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode" alt="Araçlar" />
+  </a>
+</p>
 
+## Katkı Yolculuğu & İstatistikler
 
-
-
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frknaydemirr&bg_color=0d1117&color=c9d1d9&line=00ff00&point=ffffff&area=true&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frknaydemirr&bg_color=151515&color=E24A68&line=E24A68&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frknaydemirr&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
