@@ -23,7 +23,7 @@
 ## Hakkımda
 
 - 💻 **Tecrübe:** Kodjet Yazılım *(Ocak 2026 - Şimdi)*
-- 🚀 Fikirleri çalışan, sade ve ölçeklenebilir ürünlere dönüştürmeyi seviyorum.
+- 🚀  Temiz kod (clean code) prensiplerini benimseyerek kendimi sürekli geliştiriyor, sürdürülebilir ve performanslı projeler üretmeyi hedefliyorum. Yeni teknolojileri öğrenmekten ve değer katan yenilikçi uygulamalar geliştirmekten büyük heyecan duyuyorum.
 - 📍 Ankara / Türkiye
 - 🌐 Projeler ve iletişim: [furkanaydemir.com](http://furkanaydemir.com/)
 
