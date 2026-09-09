@@ -1,6 +1,6 @@
-<h1 align="center">Merhaba, ben Furkan Aydemir 👋</h1>
+<h1 align="center">Hi, I'm Furkan Aydemir 👋</h1>
 
-<h3 align="center">Yazılım Geliştirici • Bilgisayar Müh. Öğrencisi</h3>
+<h3 align="center">Software Developer • Computer Engineering Student</h3>
 
 <p align="center">
   <a href="http://furkanaydemir.com/">
@@ -20,33 +20,33 @@
   </a>
 </p>
 
-## Hakkımda
+## About Me
 
-- 💻 **Tecrübe:** Kodjet Yazılım *(Ocak 2026 - Şimdi)*
-- 🚀  Temiz kod (clean code) prensiplerini benimseyerek kendimi sürekli geliştiriyor, sürdürülebilir ve performanslı projeler üretmeyi hedefliyorum. Yeni teknolojileri öğrenmekten ve değer katan yenilikçi uygulamalar geliştirmekten büyük heyecan duyuyorum.
-- 📍 Ankara / Türkiye
-- 🌐 Projeler ve iletişim: [furkanaydemir.com](http://furkanaydemir.com/)
+- 💻 **Experience:** Kodjet Yazılım *(January 2026 - Present)*
+- 🚀 Committed to clean code principles, continuously improving myself, and aiming to build sustainable, high-performance projects. Passionate about learning new technologies and developing innovative applications that deliver real value.
+- 📍 Ankara, Türkiye
+- 🌐 Projects & contact: [furkanaydemir.com](http://furkanaydemir.com/)
 
-## Teknolojiler
+## Tech Stack
 
-<h4 align="center">Diller</h4>
+<h4 align="center">Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,java" alt="Diller" />
+    <img src="https://skillicons.dev/icons?i=cs,js,java" alt="Languages" />
   </a>
 </p>
 
-<h4 align="center">Frontend & Mobil</h4>
+<h4 align="center">Frontend & Mobile</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,angular" alt="Frontend ve Mobil" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,html,css,angular" alt="Frontend and Mobile" />
   </a>
 </p>
 
-<h4 align="center">Backend & Veritabanı</h4>
+<h4 align="center">Backend & Database</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mysql" alt="Backend ve Veritabanı" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mysql" alt="Backend and Database" />
   </a>
   <br/>
   <br/>
@@ -58,14 +58,14 @@
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
 </p>
 
-<h4 align="center">Araçlar & Diğer</h4>
+<h4 align="center">Tools & Others</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode" alt="Araçlar" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode" alt="Tools" />
   </a>
 </p>
 
-## Katkı Yolculuğu & İstatistikler
+## Contribution Journey & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frknaydemirr&bg_color=151515&color=E24A68&line=E24A68&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
